@@ -7,7 +7,7 @@ Claude checks these off as missions are verified. ✅ = done and verified · �
 - [ ] OnVUE system pre-check run (if testing online)
 
 ## Day 1 — Git & GitHub basics (Domain 1, 25–30%)
-- [ ] 1.1 GitHub Flow on the web: branch → Markdown file → PR (4 tabs) → merge commit → delete branch
+- [x] 1.1 GitHub Flow on the web: branch → Markdown file → PR (4 tabs) → merge commit → delete branch ✅ *PR #1, merge commit, branch deleted*
 - [ ] 1.2 Local round-trip: clone, commit, push; `git remote -v`
 - [ ] 1.3 fetch vs pull lab: web edit → stale `git status` → fetch → merge
 - [ ] 1.4 Commit-graph reading: local merge vs rebase with `git log --graph`

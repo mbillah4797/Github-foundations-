@@ -1,4 +1,4 @@
-# Day 5 — Review, Mocks & Exam-Day Prep (Mon Aug 18)
+# Day 5 — Review, Mocks & Exam-Day Prep (Fri Aug 21)
 
 No new material. Today converts five days of doing into exam points: calibrate with real-style questions, close weak spots, and de-risk the logistics.
 

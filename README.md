@@ -2,7 +2,7 @@
 
 This repository **is the classroom**. Every concept on the GitHub Foundations exam gets learned by *doing it here* — real branches, real pull requests, real issues, real Actions runs — then verified and quizzed in chat with Claude.
 
-**Exam:** GitHub Foundations (Microsoft exam code **GH-900**) · **Target exam day:** Tue Aug 19, 2026
+**Exam:** GitHub Foundations (Microsoft exam code **GH-900**) · **Target exam day:** Sat Aug 22, 2026
 
 > ⚠️ The exam was **significantly restructured in January 2026** and moved to Microsoft Credentials / Pearson VUE in mid-2025. Many older blog posts and courses describe the retired 75-question PSI exam. This curriculum follows the **current official GH-900 study guide**.
 
@@ -36,11 +36,11 @@ Full objective list (verbatim from the official study guide): [docs/objectives.m
 
 | Day | Date | Focus | Mission script |
 |---|---|---|---|
-| 1 | Thu Aug 14 | Git & GitHub basics — the biggest domain. **Also: book the exam today.** | [days/day-1.md](days/day-1.md) |
-| 2 | Fri Aug 15 | Repositories + collaboration (issues, PRs, merge strategies, discussions) | [days/day-2.md](days/day-2.md) |
-| 3 | Sat Aug 16 | Actions, Copilot, Codespaces + Projects, milestones, saved replies | [days/day-3.md](days/day-3.md) |
-| 4 | Sun Aug 17 | Security & administration + open-source community, gists, wiki, Pages | [days/day-4.md](days/day-4.md) |
-| 5 | Mon Aug 18 | Practice exams, trap drills, cram sheet, exam-day logistics | [days/day-5.md](days/day-5.md) |
+| 1 | Mon Aug 17 | Git & GitHub basics — the biggest domain. **Also: book the exam today.** | [days/day-1.md](days/day-1.md) |
+| 2 | Tue Aug 18 | Repositories + collaboration (issues, PRs, merge strategies, discussions) | [days/day-2.md](days/day-2.md) |
+| 3 | Wed Aug 19 | Actions, Copilot, Codespaces + Projects, milestones, saved replies | [days/day-3.md](days/day-3.md) |
+| 4 | Thu Aug 20 | Security & administration + open-source community, gists, wiki, Pages | [days/day-4.md](days/day-4.md) |
+| 5 | Fri Aug 21 | Practice exams, trap drills, cram sheet, exam-day logistics | [days/day-5.md](days/day-5.md) |
 
 ## How each lesson works
 

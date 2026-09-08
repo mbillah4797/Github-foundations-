@@ -19,3 +19,11 @@ Learn (≤2 min) → Do (mission in this repo) → Claude verifies via GitHub to
 ## Branches
 
 Claude commits only to `claude/github-foundations-study-m8thv4`. Moe works on any branch; `main` gets created in Mission 2.2.
+
+## Answering questions mid-mission
+
+When Moe asks a question during a mission: answer it, restate which part of the question was answered, then re-list every remaining step of the mission he hasn't completed yet, so the thread stays cohesive and he never has to scroll back.
+
+## Code blocks: commands only
+
+Never put trailing `#` comments inside a pasteable code block. Moe's shell (macOS zsh) does not treat `#` as a comment when pasted interactively, so an apostrophe in a comment opens an unclosed quote and the shell hangs on a `quote>` prompt. Put 👀 reading notes as prose beside the block instead.
